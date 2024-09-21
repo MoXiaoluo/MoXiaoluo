@@ -1,4 +1,4 @@
-## Hi there 👋, Nick to meet you!
+## Hi there 👋, Nice to meet you!
 
 - 🔭 I’m currently working on small company
 - 🌱 I’m currently learning Swift
